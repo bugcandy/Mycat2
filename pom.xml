@@ -49,7 +49,7 @@
     <dependency>
       <groupId>org.realityforge.org.jetbrains.annotations</groupId>
       <artifactId>org.jetbrains.annotations</artifactId>
-      <version>1.2.0</version>
+      <version>1.7.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
     <dependency>
